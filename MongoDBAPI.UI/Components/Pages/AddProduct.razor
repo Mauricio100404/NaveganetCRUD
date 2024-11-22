@@ -1,0 +1,70 @@
+﻿@page "/add-product"
+@inject IProductService ProductService
+@using MongoDBAPI.Model
+@implements IDisposable
+
+<h3>Agregar Producto</h3>
+
+<EditForm Model="product" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label>Name</label>
+        <InputText class="form-control" @bind-Value="product.Name" />
+        <ValidationMessage For="@(() => product.Name)" />
+    </div>
+    <div class="form-group">
+        <label>Stock</label>
+        <InputNumber class="form-control" @bind-Value="product.Stock" />
+        <ValidationMessage For="@(() => product.Stock)" />
+    </div>
+    <div class="form-group">
+        <label>Expiry Date</label>
+        <InputDate class="form-control" @bind-Value="product.ExpiryDate" />
+        <ValidationMessage For="@(() => product.ExpiryDate)" />
+    </div>
+    <div class="form-group">
+        <label>Category</label>
+        <InputText class="form-control" @bind-Value="product.Category" />
+        <ValidationMessage For="@(() => product.Category)" />
+    </div>
+    <button type="submit" class="btn btn-primary">Agregar Producto</button>
+</EditForm>
+
+@if (successMessage != null)
+{
+    <p class="text-success">@successMessage</p>
+}
+
+@if (errorMessage != null)
+{
+    <p class="text-danger">@errorMessage</p>
+}
+
+@code {
+    private Product product = new Product();
+    private string successMessage;
+    private string errorMessage;
+
+    private async Task HandleValidSubmit()
+    {
+        try
+        {
+            await ProductService.SaveProduct(product);
+            successMessage = "Producto agregado correctamente.";
+            errorMessage = null;
+            product = new Product(); // Reiniciar el formulario
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error al agregar producto: {ex.Message}";
+            successMessage = null;
+        }
+    }
+
+    public void Dispose()
+    {
+        // Aquí puedes liberar recursos si es necesario
+    }
+}

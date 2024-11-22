@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JVeKvnvL+xP9xFiJb4Hdn79fv07HSBtBvvDbUZs2uGU=",
+  "Source": "MongoDBAPI10B",
+  "BasePath": "_content/MongoDBAPI10B",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

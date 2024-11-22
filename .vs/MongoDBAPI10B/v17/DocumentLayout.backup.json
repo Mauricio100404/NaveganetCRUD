@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi10b\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|solutionrelative:mongodbapi10b\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi10b\\repositories\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|solutionrelative:mongodbapi10b\\repositories\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi10b\\repositories\\productcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|solutionrelative:mongodbapi10b\\repositories\\productcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\components\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\components\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B805D6E0-7539-4107-8A8E-73082AC7D1D1}|MongoDBAPI.Model\\MongoDBAPI.Model.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B805D6E0-7539-4107-8A8E-73082AC7D1D1}|MongoDBAPI.Model\\MongoDBAPI.Model.csproj|solutionrelative:mongodbapi.model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi10b\\repositories\\iproductcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|solutionrelative:mongodbapi10b\\repositories\\iproductcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi10b\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|solutionrelative:mongodbapi10b\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi10b\\mongodbapi10b.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|solutionrelative:mongodbapi10b\\mongodbapi10b.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi10b\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|solutionrelative:mongodbapi10b\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi10b\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|solutionrelative:mongodbapi10b\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi10b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D808E0E0-B657-4D3D-9612-F28C5B10E5BF}|MongoDBAPI10B\\MongoDBAPI10B.csproj|solutionrelative:mongodbapi10b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\mongodbapi.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\mongodbapi.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B805D6E0-7539-4107-8A8E-73082AC7D1D1}|MongoDBAPI.Model\\MongoDBAPI.Model.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.model\\mongodbapi.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B805D6E0-7539-4107-8A8E-73082AC7D1D1}|MongoDBAPI.Model\\MongoDBAPI.Model.csproj|solutionrelative:mongodbapi.model\\mongodbapi.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|c:\\users\\rdjrr\\source\\repos\\repofalso\\mongodbapi10b\\mongodbapi.ui\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82B42248-62E6-4A90-A328-A59489A1AC49}|MongoDBAPI.UI\\MongoDBAPI.UI.csproj|solutionrelative:mongodbapi.ui\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "MongoDBAPI.UI\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T20:10:33.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.Model\\Product.cs",
+              "RelativeDocumentMoniker": "MongoDBAPI.Model\\Product.cs",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.Model\\Product.cs",
+              "RelativeToolTip": "MongoDBAPI.Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:57:37.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Components\\Routes.razor",
+              "RelativeToolTip": "MongoDBAPI.UI\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T20:09:58.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MongoDBAPI.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\MongoDBAPI.UI.csproj",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\MongoDBAPI.UI.csproj",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\MongoDBAPI.UI.csproj",
+              "RelativeToolTip": "MongoDBAPI.UI\\MongoDBAPI.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T19:30:40.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MongoDBAPI.UI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T19:38:57.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MongoDBAPI10B\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MongoDBAPI10B\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T17:37:42.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\MauiProgram.cs",
+              "RelativeToolTip": "MongoDBAPI.UI\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:13:21.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MongoDBAPI10B\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\appsettings.Development.json",
+              "RelativeToolTip": "MongoDBAPI10B\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T20:37:12.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Services\\ProductService.cs",
+              "RelativeToolTip": "MongoDBAPI.UI\\Services\\ProductService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwEMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:12:08.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\appsettings.json",
+              "RelativeDocumentMoniker": "MongoDBAPI10B\\appsettings.json",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\appsettings.json",
+              "RelativeToolTip": "MongoDBAPI10B\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T17:23:32.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MongoDBAPI10B.http",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\MongoDBAPI10B.http",
+              "RelativeDocumentMoniker": "MongoDBAPI10B\\MongoDBAPI10B.http",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\MongoDBAPI10B.http",
+              "RelativeToolTip": "MongoDBAPI10B\\MongoDBAPI10B.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-07T02:29:58.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Program.cs",
+              "RelativeDocumentMoniker": "MongoDBAPI10B\\Program.cs",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Program.cs",
+              "RelativeToolTip": "MongoDBAPI10B\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:23:23.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCollection.cs",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Repositories\\ProductCollection.cs",
+              "RelativeDocumentMoniker": "MongoDBAPI10B\\Repositories\\ProductCollection.cs",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Repositories\\ProductCollection.cs",
+              "RelativeToolTip": "MongoDBAPI10B\\Repositories\\ProductCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:23:48.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductCollection.cs",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Repositories\\IProductCollection.cs",
+              "RelativeDocumentMoniker": "MongoDBAPI10B\\Repositories\\IProductCollection.cs",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Repositories\\IProductCollection.cs",
+              "RelativeToolTip": "MongoDBAPI10B\\Repositories\\IProductCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:34:35.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoDBRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Repositories\\MongoDBRepository.cs",
+              "RelativeDocumentMoniker": "MongoDBAPI10B\\Repositories\\MongoDBRepository.cs",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Repositories\\MongoDBRepository.cs",
+              "RelativeToolTip": "MongoDBAPI10B\\Repositories\\MongoDBRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:23:50.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\App.xaml",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\App.xaml",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\App.xaml",
+              "RelativeToolTip": "MongoDBAPI.UI\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T20:36:07.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\MainPage.xaml",
+              "RelativeToolTip": "MongoDBAPI.UI\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T20:14:51.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MongoDBAPI.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.Model\\MongoDBAPI.Model.csproj",
+              "RelativeDocumentMoniker": "MongoDBAPI.Model\\MongoDBAPI.Model.csproj",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.Model\\MongoDBAPI.Model.csproj",
+              "RelativeToolTip": "MongoDBAPI.Model\\MongoDBAPI.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T19:29:13.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MongoDBAPI10B\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI10B\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MongoDBAPI10B\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:59:49.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Components\\_Imports.razor",
+              "RelativeToolTip": "MongoDBAPI.UI\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T20:10:02.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProduct.razor",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Components\\Pages\\AddProduct.razor",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\Components\\Pages\\AddProduct.razor",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Components\\Pages\\AddProduct.razor",
+              "RelativeToolTip": "MongoDBAPI.UI\\Components\\Pages\\AddProduct.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T20:10:06.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "MongoDBAPI.UI\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T20:10:29.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "MongoDBAPI.UI\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\rdjrr\\source\\repos\\repofalso\\MongoDBAPI10B\\MongoDBAPI.UI\\wwwroot\\index.html",
+              "RelativeToolTip": "MongoDBAPI.UI\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-09T20:07:08.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

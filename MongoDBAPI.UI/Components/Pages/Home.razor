@@ -1,0 +1,60 @@
+﻿@page "/"
+@inject IProductService ProductService
+
+<h1>Product</h1>
+
+<p>
+    <a href="/add-product" class="btn btn-primary">Agregar Producto</a>
+</p>
+
+@if (products == null)
+{
+    <p><em>No se encontraron productos.</em></p>
+}
+else if (products.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <td>Name</td>
+                <td>Stock</td>
+                <td>Expiry Date</td>
+                <td>Category</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var prod in products)
+            {
+                <tr>
+                    <td>@prod.Name</td>
+                    <td>@prod.Stock</td>
+                    <td>@prod.ExpiryDate</td>
+                    <td>@prod.Category</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p><em>No hay productos disponibles.</em></p>
+}
+
+@code
+{
+    IEnumerable<Product> products = Enumerable.Empty<Product>(); // Inicializar como vacío
+    string errorMessage; // Variable para manejar errores
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            products = await ProductService.GetAllProducts();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error al obtener productos: {ex.Message}";
+            products = Enumerable.Empty<Product>(); // Asegúrate de que `products` no sea nulo
+        }
+    }
+}
